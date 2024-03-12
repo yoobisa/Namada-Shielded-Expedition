@@ -9,10 +9,10 @@ Transperen address:  tnam1qp7ag54ty634g3p2dj45w382t838v3zhhqygt2u9
 Osmosis address: osmo1vkv6m383rngzzzxtf0teljrmcl4297xlr7p79v
 
 **osmo-test-5:
-chain id - 6270**
+channel id - 6270**
 
 **namada:
-chain id - 809**
+channel id - 809**
 
 
 ### Create channel Namada <> Osmosis
